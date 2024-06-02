@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> COLOMBIA</title>   
+<style>
+  .contenedor {
+    display: flex;
+    align-items: center; /* Alinea verticalmente */
+  }
+  .imagen {
+    width: 100px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+  }
+  .texto {
+    margin-left: 10px; /* Espacio entre la imagen y el texto */
+  }
+</style>
+	</head>
+	<body>
+	<h1> <p style="font-family: Calibri; style="font-size: 80px;"> COLOMBIA PAIS DE LA BIODIVERSIDAD</p> </h1>
+	<h11>Imagen en HTML</h11> <img src="C:\Users\DOCENTE\Documents\COLOMBIA GISSELLE\BANDERA.JPG" alt="BANDERA DE COLOMBIA"> 
+<div style="background-color: #f0f0f0;"> 
+<! Este es un comentario que no se mostrará en la página web >
+<!Notese que el color solo se aplica a lo que esta debajo de la orden>
+	<h2><p style="color: red;">  CAPITAL </h2>
+	<p> la capiatl de Colombia queda ubicada en el centro del país y se le conoce como:<br>
+	 Bogotá <br>
+	 Santa fe de bogotá  <br>
+	 Atenea suramericana <br> </p>
+</div style>
+
+   <div style="background-color: #3498DB;"> 
+	<h3> <p style="color: blue;"> PRESIDENTE ACTUAL </h3>
+	<p style="font-family: Arial; style="font-size: 18px;"> El presidente durante el periodo  2022- 2026  	es Gustavo Petro </p>
+</div style>
+	
+ <div style="background-color: #E8DAEF;"> 
+ <div class="contenedor">
+<img src="imagen.jpg" alt="C:\Users\DOCENTE\Documents\COLOMBIA GISSELLE\LIMITES.PNG" alt="LIMITES DE COLOMBIA" class="imagen">
+  <p class="texto">
+
+	<h4> <p style="color: green;">LIMITES DE COLOMBIA</h4>
+	<p style="font-family: Times New Roman; style="font-size: 16px;> Colombia presenta los siguientes limites: <br>
+	<li>Al este con Venezuela y Brasil <br>n  
+ 	<li>Al sur con Perú y Ecuador <br>
+	<li>Al noroeste con Panamá<br> 
+	En cuanto a límites marítimos:<br>
+	<li> Por el mar caribe se encuentran:<br>
+		Panamá, Costa Rica, Nicaragua, Honduras, Jamaica, Haití,República Dominicana y Venezuela <br>
+	<li> Por el Oceano Pacifico: <br>
+		 Panamá, Costa Rica y Ecuador.</p>
+</div>
+</div style>
+	</body>
+</html> 
+

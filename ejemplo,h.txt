@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> COLOMBIA</title>   
+	</head>
+	<body>
+	<h1> <p style="font-family: Calibri; style="font-size: 80px;"> COLOMBIA PAIS DE LA BIODIVERSIDAD</p> </h1>
+	<h1>Imagen en HTML</h1> <img src="C:\Users\DOCENTE\Documents\COLOMBIA GISSELLE.BANDERA.JPG" alt="BANDERA DE COLOMBIA"> 
+<div style="background-color: #f0f0f0;"> 
+<! Este es un comentario que no se mostrará en la página web >
+<!Notese que el color solo se aplica a lo que esta debajo de la orden>
+	<h2><p style="color: red;">  CAPITAL </h2>
+	<p> la capiatl de Colombia queda ubicada en el centro del país y se le conoce como:<br>
+	 Bogotá <br>
+	 Santa fe de bogotá  <br>
+	 Atenea suramericana <br> </p>
+</div style>
+
+   <div style="background-color: #3498DB;"> 
+	<h3> <p style="color: blue;"> PRESIDENTE ACTUAL </h3>
+	<p style="font-family: Arial; style="font-size: 18px;"> El presidente durante el periodo  2022- 2026  	es Gustavo Petro </p>
+</div style>
+	
+ <div style="background-color: #E8DAEF;"> 
+	<h4> <p style="color: green;">LIMITES DE COLOMBIA</h4>
+	<p style="font-family: Times New Roman; style="font-size: 16px;> Colombia presenta los siguientes 	limites: <br>
+	Al este con Venezuela y Brasil <br>n  
+ 	Al sur con Perú y Ecuador <br>
+	Al noroeste con Panamá<br> 
+	En cuanto a límites marítimos, colinda con Panamá, Costa Rica, Nicaragua, Honduras, Jamaica, Haití,  	República Dominicana y Venezuela en el Mar Caribe, y con Panamá, Costa Rica y Ecuador en el Océano 	Pacífico.</p>
+</div style>
+	</body>
+</html> 
